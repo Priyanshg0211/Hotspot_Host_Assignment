@@ -75,13 +75,6 @@ flutter:
   assets:
     - assets/images/background.png
     - assets/icon/arrow.svg
-    - assets/images/party.png
-    - assets/images/dinner.png
-    - assets/images/brunch.png
-    - assets/images/picnic.png
-    - assets/images/lunch.png
-    - assets/images/brunchtwo.png
-    - assets/images/partytwo.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
